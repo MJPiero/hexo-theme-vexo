@@ -11,7 +11,7 @@
   $(document).ready(function () {
     NProgress.start()
     $('#nprogress .bar').css({
-      'background': '#42b983'
+      'background': '#ff6600'
     })
     $('#nprogress .spinner').hide()
 
